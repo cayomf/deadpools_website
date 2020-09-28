@@ -1,4 +1,6 @@
-# pb_cidclay
+# Deadpool's Website
+
+A parody website, to buy tickets for fake Deadpool's movies. An application made in Vue.
 
 ## Project setup
 ```
